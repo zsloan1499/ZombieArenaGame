@@ -1,0 +1,27 @@
+﻿  ZombieArena.cpp
+C:\Users\Sloan\OneDrive\Documents\GitHub\Sloan-work-gdp1\GameProg1\zombie3\ZombieArena.cpp(29,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sloan\OneDrive\Documents\GitHub\Sloan-work-gdp1\GameProg1\zombie3\ZombieArena.cpp(30,44): warning C4244: '=': conversion from 'unsigned int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sloan\OneDrive\Documents\GitHub\Sloan-work-gdp1\GameProg1\zombie3\ZombieArena.cpp(32,56): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sloan\OneDrive\Documents\GitHub\Sloan-work-gdp1\GameProg1\zombie3\ZombieArena.cpp(32,42): warning C4244: 'argument': conversion from 'T' to 'unsigned int', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Sloan\OneDrive\Documents\GitHub\Sloan-work-gdp1\GameProg1\zombie3\ZombieArena.cpp(763,50): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  zombie3.vcxproj -> C:\Users\Sloan\OneDrive\Documents\GitHub\Sloan-work-gdp1\GameProg1\x64\Debug\zombie3.exe
